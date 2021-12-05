@@ -2,6 +2,9 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
+// Developer Domagoj Ratko
+// This code is private and you are not allowed to use or copy it.
+
 public class Main {
     private Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
