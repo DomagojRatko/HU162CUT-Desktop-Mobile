@@ -10,4 +10,4 @@ Java application HU162 key cut calculator.
 * @discord Domo Ratko#0750
 * @email domagoj.ratko@gmail.com
 * @version 1.0
-* @since 12.05.2021
+* @since 05.12.2021
