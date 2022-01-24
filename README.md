@@ -11,7 +11,7 @@ Java application HU162 key cut calculator.
 * @email domagoj.ratko@gmail.com
 * @version 1.0
 * @since 05.12.2021
-
+*
 * Console version
 
 ![Capture](https://user-images.githubusercontent.com/62218857/150873135-080eca95-9f43-406f-87cd-5473c9ae7e4b.PNG)
